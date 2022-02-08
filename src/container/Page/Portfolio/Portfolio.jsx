@@ -19,9 +19,9 @@ class Portfolio extends Component {
 
 			            <ul className="portfolio-filter text-center">
 			                <li><a className="btn btn-default active" href="#" data-filter="*">All Works</a></li>
-			                <li><a className="btn btn-default" href="#" data-filter=".bootstrap">Creative</a></li>
-			                <li><a className="btn btn-default" href="#" data-filter=".html">Photography</a></li>
-			                <li><a className="btn btn-default" href="#" data-filter=".wordpress">Web Development</a></li>
+			                <li><a className="btn btn-default" href="#" data-filter=".bootstrap">Pulsar</a></li>
+			                <li><a className="btn btn-default" href="#" data-filter=".html">Honda</a></li>
+			                <li><a className="btn btn-default" href="#" data-filter=".wordpress">Yamaha </a></li>
 			            </ul>
 
 			            <div className="row">

@@ -56,7 +56,7 @@ class Home extends Component {
                     <div className="col-md-7">
                       <div className="carousel-content">
                         <h1 className="animation animated-item-1">
-                          En Kaliteli motor camları
+                          VP Custom Accessor  y
                         </h1>
                         <div className="animation animated-item-2">
                           Every new computer that’s brought home from the store
@@ -98,11 +98,11 @@ class Home extends Component {
           </a>
         </div>
 
-        <section id="feature">
+        <section id="feature"  >
           <div className="container">
-            <div className="center fadeInDown">
+            <div className="center fadeInDown" style={{display:"none"}}>
               <h2>Neden bizi tercih etmelisiniz?</h2>
-              <p className="lead">
+              <p className="lead" style={{display:"none"}}>
                 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
                 eiusmod tempor incididunt ut et dolore magna aliqua. Ut enim ad
                 minim veniam
@@ -111,12 +111,12 @@ class Home extends Component {
 
             <div className="row">
               <Features
-                icon="fa fa-rocket"
-                title="Hızlı Üretim"
+                icon="fa fa-check"
+                title="Yerli Üretim"
                 desc="Having a baby can be a nerve wracking experience for new"
               />
               <Features
-                icon="fa fa-check"
+                icon="fa fa-rocket"
                 title="Hızlı Teslimat"
                 desc="If you are looking for a new way to promote your business that"
               />
